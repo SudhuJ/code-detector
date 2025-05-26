@@ -1,5 +1,6 @@
 # Code Detector & Image Filter
 The demo functions as a basic QR &amp; Barcode Detector with Image Filter Capabilites. The following image processing techniques can be applied with varying control parameters to edit uploaded images.
+
 -Edge Detectors (Gaussian Difference, Sobel, Canny)
 -Aesthetic Filters (To be Added)
 
