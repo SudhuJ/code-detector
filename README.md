@@ -2,8 +2,6 @@
 
 The demo functions as a basic QR & Barcode Detector with Image Filter capabilities. The following image processing techniques can be applied with varying control parameters to edit uploaded images.
 
-# Image Processing Techniques
-
 # Edge Detectors
 - Gaussian Difference
 - Sobel
